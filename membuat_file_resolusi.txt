@@ -5,3 +5,4 @@ mariyln_repository
 - membuat vlog
 - share pengalaman
 - membuat jurnal
+- magang
