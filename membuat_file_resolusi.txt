@@ -6,3 +6,4 @@ mariyln_repository
 - share pengalaman
 - membuat jurnal
 - magang
+- kerja
